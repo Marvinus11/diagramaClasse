@@ -1,1 +1,1 @@
-# diagramaClasse
+<img src="diagrama.png"/>
